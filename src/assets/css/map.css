@@ -1,0 +1,10 @@
+.maplibregl-popup-content {
+  background-color: #fdc200;
+  border-radius: 8px;
+  padding: 5px 15px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.maplibregl-popup-tip {
+  border-top-color: #fdc200 !important;
+}
